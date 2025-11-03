@@ -1,0 +1,26 @@
+{
+  "name": "react-functional-component-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "react-cli": "./index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "react",
+    "cli",
+    "component-generator",
+    "functional-component"
+  ],
+  "author": "Mathankumar",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "commander": "^14.0.2",
+    "fs-extra": "^11.3.2"
+  }
+}
