@@ -94,7 +94,7 @@ LAKSHA SOLUTIONS
 
 🖥️ https://lakshasolutions.in
 
-📦 npm: https://www.npmjs.com/package/react-cli-generator
+📦 npm: https://www.npmjs.com/package/react-functionalcomponent-generator
 
 ---
 ## 📃 License
